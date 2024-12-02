@@ -1,1 +1,4 @@
-# training
+hi 
+how
+are
+you
